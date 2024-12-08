@@ -1,0 +1,9 @@
+streamlit
+streamlit-chat
+openai
+python-dotenv
+tqdm
+jupyter
+numpy
+pandas
+matplotlib
